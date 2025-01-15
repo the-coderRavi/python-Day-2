@@ -18,3 +18,16 @@ print(a+b)
 a = "1"
 b = "2"
 print(int(a) + int(b))
+
+string = "15"
+number = 7
+string_number = int(string) 
+# THROWS AN ERROE IF THE STRING IS NOT A VALID INTEGER
+sum = number + string_number
+print("the sum num of both numbers is :" ,sum )
+
+# implicit typecasting
+c = 1.9 
+d = 8
+
+print(c+d)
