@@ -17,3 +17,6 @@ print(5*10)
 # there are two type of comments the first is single line comment that the time we using hasstag 
 '''the second comment is three lline of comments that the we using three collom in comments
  '''
+a = input("enter your name : (ravi)")
+
+print("a")
