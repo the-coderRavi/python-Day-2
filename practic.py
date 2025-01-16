@@ -29,3 +29,13 @@ print(a / b)
 print(x % a)
 print(x // b)
 print(x ** b)
+
+# a = 10 = integer 
+
+    # b = 2.5 = float
+    # c = "hello" = string
+    # d = [1, 2, 3] = list
+    # e = (1, 2, 3) = tuple
+    # f = {1, 2, 3} = set
+    # g = {1: "a", 2: "b", 3: "c"} = dictionary
+    
