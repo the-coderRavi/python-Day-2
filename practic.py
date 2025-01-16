@@ -39,3 +39,14 @@ print(x ** b)
     # f = {1, 2, 3} = set
     # g = {1: "a", 2: "b", 3: "c"} = dictionary
     
+print(" hey i am smart boy")
+
+a=1
+b= True
+c= "herry"
+d = None
+print(a,b,c,d,)
+print("the type of a is" ,type(a))
+print("the type of a is" ,type(b))
+print("the type of a is" ,type(c))
+print("the type of a is" ,type(d))
