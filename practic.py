@@ -16,3 +16,16 @@ print(a[0], a[1])
 print(c[0], c[1])
 
 print(b[0],b[1])
+
+# arthmatic coade
+a = 5
+b = 7 
+x = 9
+
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
+print(x % a)
+print(x // b)
+print(x ** b)
