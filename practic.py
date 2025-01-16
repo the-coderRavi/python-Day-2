@@ -1,0 +1,1 @@
+print("Hello i am Ravi prakash jaiswal and\n  i am in greduation and  i am done  my \"political science\" honures \n than i was learning about python languages ")
