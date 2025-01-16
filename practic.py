@@ -3,3 +3,16 @@ print("Hello i am Ravi prakash jaiswal and\n  i am in greduation and  i am done 
 print("hey", 6, 7, sep="~", end="009\n")
 
 print("Hello i am Ravi prakash jaiswal", 6, 7, sep="~", end="0099")
+
+print("my name is", "Ravi", "Prakash" ,"Jaiswal")
+a = "hye", 5
+b = "hello" , 7
+c = "bye", 4
+
+print(a, b, c)
+
+print(a[0], a[1])
+
+print(c[0], c[1])
+
+print(b[0],b[1])
